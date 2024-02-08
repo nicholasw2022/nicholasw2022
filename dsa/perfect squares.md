@@ -57,3 +57,6 @@ class Solution:
         return dp[n]
 ```
 
+# Result
+<img width="683" alt="image" src="https://github.com/nicholasw2022/nicholasw2022/assets/143755743/256ece62-71b4-43ab-b8d8-1f53dc44b259">
+
